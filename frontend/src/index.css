@@ -1,0 +1,15 @@
+
+html {
+  min-width: 320px;
+}
+
+body {
+  min-width: 320px;
+}
+
+button,
+input,
+textarea,
+select {
+  font-family: inherit;
+}
